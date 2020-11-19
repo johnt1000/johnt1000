@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: jonatas.rodriguess@gmail.com
 
-- ⚡ Fun fact: I do swimming and gymnastics. I like to draw.
+- ⚡ Fun fact: I do swimming and calisthenics. I like to draw.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
