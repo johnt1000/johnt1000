@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently working on <a href="https://boomer.com.br" target="_blank">Boomer Cashback</a>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning <a href="https://nextjs.org" target="_blank">**Next.js**</a>
 
-- 📫 How to reach me: jonatas.rodriguess@gmail.com
+
+- 📫 How to reach me: <a href="mailto:jonatas.rodriguess@gmail.com" target="_blank">**jonatas.rodriguess@gmail.com**</a>
 
 - ⚡ Fun fact: I do swimming and calisthenics. I like to draw.
 
