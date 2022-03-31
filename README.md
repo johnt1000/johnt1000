@@ -2,7 +2,7 @@
   Hi 👋, I'm Jônatas Rodrigues
 </h1>
 
-- 🔭 I’m currently working on <a href="https://boomer.com.br" target="_blank">Boomer Cashback</a> and <a href="https://www.pontomais.com.br" target="_blank">Pontomais</a>
+- 🔭 I’m currently working on <a href="https://boomer.com.br" target="_blank">Boomer Cashback</a> and <a href="https://bionexo.com/" target="_blank">Bionexo</a>
 
 - 🌱 I’m currently learning <a href="https://nextjs.org" target="_blank">**Next.js**</a>
 
