@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on <a href="https://boomer.com.br" target="_blank">Boomer Cashback</a> and <a href="https://bionexo.com/" target="_blank">Bionexo</a>
 
-- 🌱 I’m currently learning <a href="https://nextjs.org" target="_blank">**Next.js**</a>
+<!-- - 🌱 I’m currently learning <a href="https://nextjs.org" target="_blank">**Next.js**</a> -->
 
 
 - 📫 How to reach me: <a href="mailto:jonatas.rodriguess@gmail.com" target="_blank">**jonatas.rodriguess@gmail.com**</a>
 
-- ⚡ Fun fact: I do swimming and calisthenics. I like to draw.
+- ⚡ Fun fact: I do swimming, sailing and calisthenics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
